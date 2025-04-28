@@ -1,0 +1,15 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+*.DS_Store
+build/
+# SwiftPM
+Packages/
+Package.pins
+Package.resolved
+# CocoaPods
+Pods/
+# Carthage
+Carthage/
